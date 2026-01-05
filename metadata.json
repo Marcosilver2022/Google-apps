@@ -1,0 +1,7 @@
+{
+  "name": "PrismVibe - Sound-Reactive Image Visualizer",
+  "description": "A high-performance real-time music visualizer that transforms static images into dynamic 3D sound-responsive landscapes using Web Audio FFT and custom GLSL shaders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
